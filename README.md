@@ -3,4 +3,4 @@ Repositório de códigos que contém algoritmos de ordenção como: Quicksort, M
 
 Recomendo que os códigos sejam executados no linux ou você pode mudar o "nomeArquivo" para o caminho dele no Windows.
 
-Ainda sou iniciante no mundo da programação então qualquer critíca construtiva será muito bem vinda.
+Ainda sou iniciante no mundo da programação, então qualquer critíca construtiva será muito bem vinda.
